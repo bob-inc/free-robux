@@ -1,0 +1,24 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #37ff00;
+    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: larger;
+    line-height: 1.6;
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    color: #ffffff;
+}
+
+hr {
+    width: 50%;
+    margin: 0px;
+    border-color: white;
+    box-shadow: none;
+}
+
+.warning {
+    color: rgb(201, 112, 48);
+}
